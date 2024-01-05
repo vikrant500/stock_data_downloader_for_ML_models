@@ -1,4 +1,4 @@
-# Stock Data Downloader
+# Stock Data Downloader for ML models
 
 A simple Python script to download historical stock data for select companies to help in developing and experimenting with beginner friendly ML models. The program allows users to input the company name and the desired date range to fetch stock data.
 The downloaded data is stored in a .csv file for easy access and analysis.
