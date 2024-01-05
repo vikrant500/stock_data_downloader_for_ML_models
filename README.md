@@ -10,11 +10,13 @@ The downloaded data is stored in a .csv file for easy access and analysis.
 
 ## How to run on local machine?
 
-1. Make sure you have the 'requests' library. You may install it by typing the following in the terminal
+1. clone the repository on your local machine by typing the following in the terminal:
+    ```bash
+   git clone https://github.com/vikrant500/stock_data_downloader.git
+   ```
+2. Make sure you have the 'requests' library. You may install it by typing the following in the terminal
    ```bash
    pip install requests
    ```
-2. clone the repository on your local machine by typing the following in the terminal:
-    ```bash
-   git clone 
-   ```
+## Future plans
+- instead of having only select options, have all the possible options available
